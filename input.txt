@@ -1,0 +1,17 @@
+Name:     Grade:
+Jim    -    A 
+James  -    A- 
+Kate   -    B
+Monika -    A 
+Honey  -    B- 
+Kate   -    A 
+Sweety -    B
+Justin -    A-
+Philips-    B-
+Miller -    A
+Thomas -    B
+Bell   -    A-
+Love   -    A
+Friend -    B
+
+
